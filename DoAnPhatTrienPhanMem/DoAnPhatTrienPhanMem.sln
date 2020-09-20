@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI", "GUI\GUI.csproj", "{A7FF5D0D-0413-4F14-B6E8-8B226BB2EE0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{31831456-4ABF-4EAA-9313-5DAC9BFED923}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul_XuLy", "Modul_XuLy\Modul_XuLy.csproj", "{81447362-976F-4BC2-8E3D-9CE8EEF374D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7FF5D0D-0413-4F14-B6E8-8B226BB2EE0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7FF5D0D-0413-4F14-B6E8-8B226BB2EE0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7FF5D0D-0413-4F14-B6E8-8B226BB2EE0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7FF5D0D-0413-4F14-B6E8-8B226BB2EE0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31831456-4ABF-4EAA-9313-5DAC9BFED923}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31831456-4ABF-4EAA-9313-5DAC9BFED923}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31831456-4ABF-4EAA-9313-5DAC9BFED923}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31831456-4ABF-4EAA-9313-5DAC9BFED923}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81447362-976F-4BC2-8E3D-9CE8EEF374D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81447362-976F-4BC2-8E3D-9CE8EEF374D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81447362-976F-4BC2-8E3D-9CE8EEF374D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81447362-976F-4BC2-8E3D-9CE8EEF374D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

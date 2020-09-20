@@ -1,0 +1,4 @@
+C:\Users\USER\Documents\Ứng dụng thông minh\Đồ án Phát triển phần mềm\DoAnPhatTrienPhanMem\Modul_XuLy\bin\Debug\Modul_XuLy.dll
+C:\Users\USER\Documents\Ứng dụng thông minh\Đồ án Phát triển phần mềm\DoAnPhatTrienPhanMem\Modul_XuLy\bin\Debug\Modul_XuLy.pdb
+C:\Users\USER\Documents\Ứng dụng thông minh\Đồ án Phát triển phần mềm\DoAnPhatTrienPhanMem\Modul_XuLy\obj\Debug\Modul_XuLy.dll
+C:\Users\USER\Documents\Ứng dụng thông minh\Đồ án Phát triển phần mềm\DoAnPhatTrienPhanMem\Modul_XuLy\obj\Debug\Modul_XuLy.pdb

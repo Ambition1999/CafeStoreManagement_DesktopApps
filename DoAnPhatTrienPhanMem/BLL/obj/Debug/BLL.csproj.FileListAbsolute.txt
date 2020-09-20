@@ -1,0 +1,10 @@
+C:\Users\USER\Documents\Ứng dụng thông minh\Đồ án Phát triển phần mềm\DoAnPhatTrienPhanMem\BLL\bin\Debug\BLL.dll.config
+C:\Users\USER\Documents\Ứng dụng thông minh\Đồ án Phát triển phần mềm\DoAnPhatTrienPhanMem\BLL\bin\Debug\BLL.dll
+C:\Users\USER\Documents\Ứng dụng thông minh\Đồ án Phát triển phần mềm\DoAnPhatTrienPhanMem\BLL\bin\Debug\BLL.pdb
+C:\Users\USER\Documents\Ứng dụng thông minh\Đồ án Phát triển phần mềm\DoAnPhatTrienPhanMem\BLL\obj\Debug\BLL.dll
+C:\Users\USER\Documents\Ứng dụng thông minh\Đồ án Phát triển phần mềm\DoAnPhatTrienPhanMem\BLL\obj\Debug\BLL.pdb
+C:\Users\USER\Documents\Ứng dụng thông minh\Đồ án Phát triển phần mềm\DoAnPhatTrienPhanMem\BLL\bin\Debug\Modul_XuLy.dll
+C:\Users\USER\Documents\Ứng dụng thông minh\Đồ án Phát triển phần mềm\DoAnPhatTrienPhanMem\BLL\bin\Debug\Modul_XuLy.pdb
+C:\Users\USER\Documents\Ứng dụng thông minh\Đồ án Phát triển phần mềm\DoAnPhatTrienPhanMem\BLL\obj\Debug\BLL.Properties.Resources.resources
+C:\Users\USER\Documents\Ứng dụng thông minh\Đồ án Phát triển phần mềm\DoAnPhatTrienPhanMem\BLL\obj\Debug\BLL.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\Ứng dụng thông minh\Đồ án Phát triển phần mềm\DoAnPhatTrienPhanMem\BLL\obj\Debug\BLL.dll.licenses
